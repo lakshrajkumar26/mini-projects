@@ -1,0 +1,96 @@
+.main-box {
+  background-color: #5c946e;  
+  font-family: 'Minecraftia', monospace;
+  margin: 0;
+  padding: 0;
+  text-shadow: 1px 1px #000;
+}
+.container {
+  max-width: 450px;
+  margin:  auto;
+  background: #7b5e57; /* Dirt brown */
+  border: 8px solid #3e3e3e; /* Stone border */
+  border-radius: 0;
+  padding: 30px;
+  box-shadow: inset 0 0 0 4px #2e2e2e;
+  color: #fff;
+}
+
+.container input::placeholder {
+  font-family: 'Minecraftia', monospace;
+  color: #555; /* Optional: style the placeholder text color */
+  opacity: 1;  /* Ensure it’s fully visible */
+}
+
+.container p{
+   color :  #3e3e3e ;
+   font-size : 1.2rem;
+}
+
+.container h1, h2, p {
+  text-align: center;
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+ .container form {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.container input {
+  font-family: 'Minecraftia', monospace;
+  padding: 10px;
+  font-size: 14px;
+  border: 4px solid #3e3e3e;
+  background-color: #b6b6b6;
+  color: #000;
+  border-radius: 0;
+  box-shadow: inset 2px 2px #eee;
+}
+.category{
+    color : seagreen;
+}
+.container button {
+  font-family: 'Minecraftia', monospace;
+  padding: 12px;
+  font-size: 14px;
+  background-color: #4e9a06; /* Minecraft green */
+  border: 4px solid #3e3e3e;
+  color: white;
+  cursor: pointer;
+  border-radius: 0;
+  box-shadow: inset 2px 2px #2d4e0f;
+}
+
+.container button:hover {
+  background-color: #367c0d;
+}
+
+.bmi-table {
+  margin-top: 30px;
+  text-align: center;
+  color: white;
+}
+
+.bmi-table table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: 'Minecraftia', monospace;
+  box-shadow: 0 0 0 4px #3e3e3e;
+}
+
+.bmi-table th,
+.bmi-table td {
+  padding: 10px;
+  border: 2px solid #3e3e3e;
+  background-color: #7b5e57; /* brown blocky style */
+  color: #fff;
+}
+
+.bmi-table th {
+  background-color: #3e3e3e;
+}
+
+
