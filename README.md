@@ -29,16 +29,17 @@ inshort  {weatherData ? <> true thing </>  : <>false things </>}
 ## 🖼️ Screenshots
 
 ### 🔹 Home Page
-![Home Page](assets/screenshots/home.png)
+![home page](https://github.com/user-attachments/assets/ac0159e1-43c8-48c6-b3b6-1a28ffd2d47c)
 
 ### 🔹 Weather App
-![Weather App](assets/screenshots/weather.png)
+![weather](https://github.com/user-attachments/assets/8e59b64b-e463-4604-b898-7e48edd976c9)
 
 ### 🔹 To-Do List
-![To-Do List](assets/screenshots/todolist.png)
+![todolist](https://github.com/user-attachments/assets/0857708c-cb57-400d-a4e0-bb2e951034b1)
+
 
 ### 🔹 BMI Calculator
-![BMI Calculator](assets/screenshots/bmi.png)
+![bmi calculator](https://github.com/user-attachments/assets/7ca98301-e85c-4f56-b9da-3fc31f4b357f)
  
 ### 🔹 Quote Generator
 ![Quote Generator](assets/screenshots/quotes.png)
